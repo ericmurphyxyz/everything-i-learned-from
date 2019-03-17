@@ -26,4 +26,4 @@
 
 - [MDN](https://developer.mozilla.org/en-US/) is a great reference guide for HTML, CSS, and JavaScript. Don't use W3 Schools, it still sucks ass. MDN has great explanations of everything and examples. Great resource.
 - [Syntax.fm](https://syntax.fm/). Great web dev podcast about front-end development by Wes Bos and Scott Tolinski.
-- [React Podcast](https://syntax.fm/). Great web dev podcast about front-end development by Wes Bos and Scott Tolinski.
+- [React Podcast](https://reactpodcast.simplecast.fm). React podcast about updates to React and interviews with famous React developers.
